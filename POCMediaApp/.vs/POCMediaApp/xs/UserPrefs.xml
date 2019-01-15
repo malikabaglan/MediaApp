@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{14C7CDDB-C4FE-4D29-B2DD-065C2FB9A227}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POCMediaApp/MediaPage.xaml.cs">
+    <Files>
+      <File FileName="POCMediaApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="POCMediaApp/MediaPage.xaml" Line="23" Column="5" />
+      <File FileName="POCMediaApp/MediaPage.xaml.cs" Line="30" Column="38" />
+      <File FileName="POCMediaApp/App.xaml.cs" Line="15" Column="10" />
+      <File FileName="POCMediaApp.iOS/Info.plist" />
+      <File FileName="POCMediaApp.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="POCMediaApp.Android/Properties/AndroidManifest.xml" Line="8" Column="12" />
+      <File FileName="POCMediaApp.Android/MainActivity.cs" Line="27" Column="10" />
+      <File FileName="Source Not Available" />
+      <File FileName="../../.nuget/packages/xam.plugin.media/4.0.1.5/readme.txt" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POCMediaApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.POCMediaApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

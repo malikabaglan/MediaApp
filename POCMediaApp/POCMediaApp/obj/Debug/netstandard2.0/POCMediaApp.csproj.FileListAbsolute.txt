@@ -1,0 +1,12 @@
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/bin/Debug/netstandard2.0/POCMediaApp.deps.json
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/bin/Debug/netstandard2.0/POCMediaApp.dll
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/bin/Debug/netstandard2.0/POCMediaApp.pdb
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/MediaPage.xaml.g.cs
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/POCMediaApp.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/POCMediaApp.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/POCMediaApp.AssemblyInfo.cs
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/POCMediaApp.dll
+/Users/malikabaglan/Projects/POCMediaApp/POCMediaApp/obj/Debug/netstandard2.0/POCMediaApp.pdb
